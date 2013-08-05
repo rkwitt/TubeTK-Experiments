@@ -1,0 +1,31 @@
+# C/C++
+*.a
+*.app
+*.dll
+*.dylib
+*.exe
+*.la
+*.lai
+*.lib
+*.lo
+*.o
+*.out
+*.slo
+*.so
+*.so.*
+_build
+
+# OS
+*~
+.AppleDouble
+.DS_Store
+.LSOverride
+._*
+
+# Python
+*.egg
+*.egg-info
+*.mo
+*.pyc
+*.pyd
+*.pyo
